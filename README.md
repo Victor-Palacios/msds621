@@ -15,7 +15,7 @@
 
 We study a few key models deeply, rather than providing a broad but superficial survey of models. As part of this course, students implement linear and logistic regression with regularization through gradient descent, a Naive Bayes model for text sentiment analysis, decision trees, and random forest models.   
 
-<img src="images/feynman.png" width="300" align="right">Implementing these models yourself is critical to truly understanding them. As Richard Feynman wrote, "**What I cannot create, I do not understand.**" (From his blackboard at the time of his death.) With an intuition behind how the models work, you'll be able to understand and predict their behavior much more easily.
+<img src="images/feynman.png" width="200" align="right">Implementing these models yourself is critical to truly understanding them. As Richard Feynman wrote, "**What I cannot create, I do not understand.**" (From his blackboard at the time of his death.) With an intuition behind how the models work, you'll be able to understand and predict their behavior much more easily.
 
 # Class details
 
@@ -34,7 +34,7 @@ All lectures will be online via zoom thanks to COVID.
 **TEMPORAL COORDINATES.** Tue Jan 26 to Thu Mar 11.
 
 * Lectures: 10AM - noon
-* Exam 1: Tue Feb 23, 2021 2PM-3:30PM
+* Exam 1: Tue Feb 23, 2021 3PM-4:30PM
 * Exam 2: Thu Mar 11, 2021 10AM-11:30AM (last day of class)
 
 <!--
@@ -55,7 +55,7 @@ All lectures will be online via zoom thanks to COVID.
 |[Naive Bayes](https://github.com/parrt/msds621/blob/master/projects/bayes/bayes.ipynb) | 8% | Fri Feb 19, 11:59PM |
 |[Decision trees](https://github.com/parrt/msds621/blob/master/projects/dtree/dtree.md) | 15% | Thur Mar 4, 11:59PM |
 |[Random Forest](https://github.com/parrt/msds621/blob/master/projects/rf/rf.md) | 12% | Fri Mar 12, 11:59PM |
-|Exam 1| 27%| Tue Feb 23, 2PM-3:30PM |
+|Exam 1| 27%| Tue Feb 23, 3PM-4:30PM |
 |Exam 2| 28%| Thu, Mar 11 10AM-11:30AM |
 
 <!--
@@ -131,8 +131,8 @@ We will learn 3 models in depth for this course: naive bayes, decision trees, an
 
 * [Naive Bayes](https://github.com/parrt/msds621/raw/master/lectures/naive-bayes.pdf)  (slides) (Day 4)
   * [Lab: Naive bayes by hand](https://nbviewer.jupyter.org/github/parrt/msds621/blob/master/labs/bayes/naive-bayes.ipynb) (Day 4)
-  * (*[Naive Bayes project](https://nbviewer.jupyter.org/github/parrt/msds621/blob/master/projects/bayes/bayes.ipynb)*)
-* [Bias-variance trade-off](https://github.com/parrt/msds621/raw/master/lectures/bias-variance.pdf) (slides) (Day 5)
+  * (*[Naive Bayes project](https://github.com/parrt/msds621/blob/master/projects/bayes/bayes.ipynb)*)
+* [Bias-variance trade-off](https://github.com/parrt/msds621/raw/master/lectures/bias-variance.pdf) (slides) (Day 4)
 * [Intro to non-parametric machine learning models](https://github.com/parrt/msds621/raw/master/lectures/nonparametric-models.pdf) (slides) (Day 5)
 * [Decision trees](https://github.com/parrt/msds621/raw/master/lectures/decision-trees.pdf) (slides) (Day 5)
   * [Lab: Partitioning feature space](https://nbviewer.jupyter.org/github/parrt/msds621/blob/master/labs/trees/partitioning-feature-space.ipynb) (Day 6)
